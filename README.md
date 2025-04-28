@@ -35,4 +35,4 @@ Solve at least 50+ problems per month (e.g., 30+).
 📬 Contact
 Feel free to connect with me:
 
-  LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/tanvish-renghe/)
+  LinkedIn: [Tanvish Renghe](https://www.linkedin.com/in/tanvish-renghe/)
