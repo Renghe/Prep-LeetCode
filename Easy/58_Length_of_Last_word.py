@@ -6,6 +6,6 @@ class Solution:
         return len(word[-1])
 
 sol = Solution()
-print(sol.lengthOfLastWord("Hello Worlds"))
+print(sol.lengthOfLastWord("Hello World!"))
 
 
