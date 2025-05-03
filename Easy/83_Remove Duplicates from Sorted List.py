@@ -15,7 +15,7 @@ class Solution:
                 current = current.next
         return head
     
-def build_linked_list(values):
+def build_linked_list(values):            #.........Only for VSCODE
     if not values:
         return None
     head = ListNode(values[0])
@@ -25,7 +25,7 @@ def build_linked_list(values):
         current = current.next
     return head
 
-def linked_list_to_list(head):
+def linked_list_to_list(head):            #.........Only for VSCODE
     result = []
     while head:
         result.append(head.val)
