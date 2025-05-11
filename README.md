@@ -8,7 +8,7 @@ Welcome to my LeetCode Daily Practice repository!
 Here, I upload solutions to problems I solve daily on LeetCode.
 
 
-📚 About
+## 📚 About
 
 • Goal: Strengthen problem-solving skills by consistently practicing algorithms and data structures.
 
@@ -16,7 +16,7 @@ Here, I upload solutions to problems I solve daily on LeetCode.
 
  • Languages Used: (Mention your language(s), e.g., Python, C++, Java)
 
-🌟 Why Daily LeetCode?
+## 🌟 Why Daily LeetCode?
 
   • Improve consistency and discipline
 
@@ -24,7 +24,7 @@ Here, I upload solutions to problems I solve daily on LeetCode.
 
   • Track personal growth over time
 
-🚀 Future Goals
+## 🚀 Future Goals
 
 Solve at least 50+ problems per month.
 
@@ -32,7 +32,7 @@ Solve at least 50+ problems per month.
 
   • Regularly revise and optimize previous solutions.
 
-📬 Contact
+## 📬 Contact
 Feel free to connect with me:
 
   LinkedIn: [Tanvish Renghe](https://www.linkedin.com/in/tanvish-renghe/)
