@@ -26,7 +26,7 @@ Here, I upload solutions to problems I solve daily on LeetCode.
 
 🚀 Future Goals
 
-Solve at least 50+ problems per month (e.g., 30+).
+Solve at least 50+ problems per month.
 
   • Cover all major topics and patterns.
 
