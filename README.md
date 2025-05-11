@@ -10,7 +10,7 @@ Here, I upload solutions to problems I solve daily on LeetCode.
 
 📚 About
 
-  • Goal: Strengthen problem-solving skills by consistently practicing algorithms and data structures.
+    • Goal: Strengthen problem-solving skills by consistently practicing algorithms and data structures.
 
   • Focus: Array, String, Linked List, Tree, Dynamic Programming, Greedy, Backtracking, and more.
 
