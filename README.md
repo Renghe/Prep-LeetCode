@@ -1,5 +1,4 @@
 # Prep-LeetCode
-Daily solving leetcode problems
 
 LeetCode Daily Practice 🏆
 
