@@ -1,4 +1,4 @@
-# Prep-LeetCode
+# LeetCode Daily Practice 🏆
 
 LeetCode Daily Practice 🏆
 
