@@ -1,4 +1,4 @@
-# 🏆LeetCode Daily Practice 
+# 🏆Leetcode Daily Practice 
 
 
 Welcome to my LeetCode Daily Practice repository!
