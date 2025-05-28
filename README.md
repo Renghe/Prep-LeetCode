@@ -1,4 +1,4 @@
-### 🏆Leetcode Daily Practice 
+## 🏆Leetcode Daily Practice 
 
 
 Welcome to my LeetCode Daily Practice repository!
@@ -6,7 +6,7 @@ Welcome to my LeetCode Daily Practice repository!
 Here, I upload solutions to problems I solve daily on LeetCode.
 
 
-### 📚 About
+## 📚 About
 
 • Goal: Strengthen problem-solving skills by consistently practicing algorithms and data structures.
 
