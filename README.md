@@ -16,9 +16,9 @@ Here, I upload solutions to problems I solve daily on LeetCode.
 
 ## 🌟 Why Daily LeetCode?
 
-  • Improve consistency and discipline
+###  • Improve consistency and discipline
 
-  • Master key concepts for coding interviews
+###  • Master key concepts for coding interviews
 
   • Track personal growth over time
 
