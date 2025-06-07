@@ -8,3 +8,8 @@ class Solution:
             max_sum = max(max_sum, current_sum)
 
         return max_sum
+    
+nums = [5,4,-1,7,8]
+sol = Solution().maxSubArray(nums)
+
+print(sol)
