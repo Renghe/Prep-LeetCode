@@ -9,7 +9,7 @@ class Solution:
 
         return max_sum
     
-nums = [5,4,-1,7,8]
+nums = [-2,1,-3,4,-1,2,1,-5,4]
 sol = Solution().maxSubArray(nums)
 
 print(sol)
