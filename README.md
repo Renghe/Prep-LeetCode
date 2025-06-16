@@ -1,11 +1,10 @@
-#
 ## 🏆Leetcode Daily Practice 
 
 
 ### Welcome to my LeetCode Daily Practice repository!
 
 ### Here, I upload solutions to problems I solve daily on LeetCode.
-#
+
 ##
 ## 📚 About
 
