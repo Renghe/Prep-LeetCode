@@ -16,7 +16,7 @@ class Solution:
             nums[i], nums[j] = nums[j], nums[i]
 
         # Step 4: Reverse the part after index i
-        left, right = i + 1, len(nums) - 1
+        left, right = i + 1, len(num) - 1
         while left < right:
             nums[left], nums[right] = nums[right], nums[left]
             left += 1
