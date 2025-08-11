@@ -7,7 +7,15 @@ class Solution:
             row = [1] * (i + 1)
             
             for j in range(1, i):
-                row[j] = result[i - 1][j - 1] + result[i - 1][j]
+                left = result[i-1][j-1]
+                right = result[i-1][j]
+                row[j] = left + right
             result.append(row)
 
         return result
+
+sol = Solution()
+print(sol.generate(5))
+
+
+
