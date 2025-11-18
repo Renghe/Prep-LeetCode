@@ -9,3 +9,10 @@ class Solution:
             mp[num] = i
 
         return []
+    
+nums = [2, 7 ,9, 11]
+target = 9
+sol = Solution()
+print(sol.twoSum(nums, target))
+
+
