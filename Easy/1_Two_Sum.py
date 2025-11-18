@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, nums, target):
+    def twoSum(self, nums, target): #Using Hashmap- Best Approach
         mp = {}  # value : index
 
         for i, num in enumerate(nums):
