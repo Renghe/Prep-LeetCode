@@ -18,8 +18,6 @@ class Solution:
         
         return prefix
     
-
-print("Running program...")
-strs = ["dog","racecar","car"]
+strs = ["flower", "flow", "flight"]
 sol = Solution()
 print(sol.longestCommonPrefix(strs))
